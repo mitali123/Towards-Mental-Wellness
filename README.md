@@ -1,0 +1,1 @@
+This application analyzes a patient’s twitter data by connecting to twitter API and detects  the patient’s depression level using sentiment analysis and accordingly recommends medication and therapy to the patient. It tracks the patient’s treatment progress in a database.
